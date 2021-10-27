@@ -10,6 +10,5 @@ $TTL	604800
 			 604800 )	; Negative Cache TTL
 ;
 @	IN	NS	taltos.com.
-@	IN	A	127.0.0.1
+@	IN	A	172.17.0.1
 @	IN	AAAA	::1
-ns      IN      A       10.0.9.7
