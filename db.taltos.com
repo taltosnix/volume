@@ -9,7 +9,7 @@ $TTL	604800
 			2419200		; Expire
 			 604800 )	; Negative Cache TTL
 ;
-@	IN	NS	taltos.com.
+@	IN	NS	ns.taltos.com.
 @	IN	A	172.19.0.3
 @	IN	AAAA	::1
 ns  IN  A   172.19.0.3
