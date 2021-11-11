@@ -3,7 +3,7 @@
 ;
 $TTL	604800
 @	IN	SOA	taltos.com. root.taltos.com. (
-			      2		; Serial
+			      4		; Serial
 			 604800		; Refresh
 			  86400		; Retry
 			2419200		; Expire
