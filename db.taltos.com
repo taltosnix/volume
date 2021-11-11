@@ -14,3 +14,5 @@ $TTL	604800
 @	IN	AAAA	::1
 ns  IN  A   172.19.0.3
 maquina1 IN  A 172.19.0.55
+www.taltos.org IN CNAME www.taltos.com
+lucifer IN TXT "light of the world"
